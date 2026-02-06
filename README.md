@@ -29,5 +29,5 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed) influences trade
 * **Rule 2 (Entry Filter)**: In **Extreme Greed** (Index > 75), restrict new long entries for accounts that have realized three consecutive losses, mitigating the impact of market "exhaustion" phases.
 
 ---
-**Author**: [Your Name]
-**Email**: [Your Email]
+**Author**: Rishi Kumar Yadav
+**Email**: rishi212yadav@gmail.com
